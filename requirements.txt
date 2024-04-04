@@ -1,0 +1,7 @@
+numpy
+matplotlib
+seaborn
+pyprind
+scikit-learn
+pandas
+wordcloud
