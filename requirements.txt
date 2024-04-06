@@ -5,3 +5,4 @@ pyprind
 scikit-learn
 pandas
 wordcloud
+nltk
