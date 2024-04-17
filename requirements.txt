@@ -9,3 +9,5 @@ nltk
 wordninja
 ray[data,train,tune,serve]
 plotly
+torch
+torchtext
